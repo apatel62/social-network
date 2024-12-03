@@ -27,7 +27,7 @@ export const getAllThoughts = async (_req: Request, res: Response) => {
 export const getThoughtById = async (req: Request, res: Response) => {
     const { thoughtId } = req.params;
     try {
-      const thoughtSpecific = await User.findById(thoughtId);
+      const thoughtSpecific = await Thought.findById(thoughtId);
       if(thoughtSpecific) {
         res.json(thoughtSpecific);
       } else {
