@@ -22,7 +22,7 @@ Node.js and MongoDB is required to run this code. Node.js can be installed by vi
 
 ## Usage
 
-This project was used to get a better understanding of document-oriented databases like MongoDB and its ODM Mongoose. 
+This project was used to get a better understanding of document-oriented databases like MongoDB and its ODM Mongoose.
 
 ## How to Contribute
 
@@ -39,7 +39,7 @@ npm run seed
 npm run start
 ```
 
-The following video walkthroughs how to use the code: [walkthrough](https://drive.google.com/file/d/1HuYZTlJf6E2D2-eL1ahtmP-TKbyqVAnm/view?usp=sharing).
+The following video walkthroughs how to use the code: [walkthrough](https://drive.google.com/file/d/1A0EGwGGSW2Eg36zddxNzJhQbH_9QQESG/view?usp=sharing).
 
 ## License
 
